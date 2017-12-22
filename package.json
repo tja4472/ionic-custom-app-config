@@ -31,8 +31,11 @@
     "zone.js": "0.8.18"
   },
   "devDependencies": {
-    "@ionic/app-scripts": "3.1.4",
+    "@ionic/app-scripts": "3.1.6",
     "typescript": "2.4.2"
+  },
+  "config": {
+    "ionic_webpack": "./tools/config/ionic.webpack.js"
   },
   "description": "An Ionic project"
 }
